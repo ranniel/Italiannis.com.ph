@@ -1,11 +1,11 @@
 .nav-main .nav-link .nav-ul > li:hover a, .nav-main .nav-link .nav-ul > li.active a, .nav-main .nav-link .nav-ul > li ul li a, #main_banner .banner-text .top-title label, #footer .footer-link ul li a:hover, #footer .footer-bottom p a, .book-tabel .form-view .submit-slide:hover .fa, .news-block .news-box a, .style-box .box-icon .fa, .style-box .inner-box .home-them ul li a, .top-title label, .our-story.style2 .top-title label, .news-block .news-slide .news-content a, .menu-view .menu-box2 .text .price, #footer.style3 .copyright-text p a {
-	color: #1b5603;
+	color: #c6a325
 }
 .nav-main .nav-link .nav-ul > li ul {
 	border-top: solid 3px #1b5603;
 }
 .nav-main .nav-link .nav-ul > li ul li:hover a, .nav-main .nav-link .nav-ul > li ul li.active a {
-	background: #1b5603;
+	background: #c6a325;
 	color: #fff;
 }
 .btn.fill {

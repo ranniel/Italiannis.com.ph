@@ -1241,7 +1241,7 @@ cursor:pointer;
 border:5px solid #252525;
 background:#ffffff;
 }
-.menu-title-section:hover{background:#ffffff;}
+.menu-title-section:hover{background:#1b5603;}
 
 .menu-title-section:before {
     content: "\f107";

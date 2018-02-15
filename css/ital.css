@@ -1250,7 +1250,7 @@ background:#ffffff;
     margin-right: 8px;
 }
 .menu-title-section a{color:#252525;}
-.menu-title-section.active, .menu-title-section:hover{background:#252525;}
+.menu-title-section.active, .menu-title-section:hover{background:#1b5603;}
 .menu-title-section.active:before{ content: "\f106";
 color:#ffffff;}
 .menu-title-section.active a, .menu-title-section:hover a, .menu-title-section:hover:before{color:#ffffff;}

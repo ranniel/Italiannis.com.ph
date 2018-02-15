@@ -1253,7 +1253,7 @@ background:#ffffff;
 .menu-title-section.active, .menu-title-section:hover{background:#1b5603;}
 .menu-title-section.active:before{ content: "\f106";
 color:#ffffff;}
-.menu-title-section.active a, .menu-title-section:hover a, .menu-title-section:hover:before{color:#ffffff;}
+.menu-title-section.active a, .menu-title-section:hover a, .menu-title-section:hover:before{color:#1b5603;}
 .menu-accordion{padding:24px 12px 0 12px;
 margin-bottom:0;}
 

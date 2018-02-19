@@ -186,7 +186,10 @@ a:focus {
 	display: none;
 }
 .line-height{
-	line-height: 25px;
+	line-height: 25px !important;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px !important;
+	font-weight: normal;
 }
 .nav-main .nav-link .nav-ul > li ul li {
 	list-style: none;

@@ -2,123 +2,123 @@
 	color: #c6a325;
 }
 .nav-main .nav-link .nav-ul > li ul {
-	border-top: solid 3px #1b5603;
+	border-top: solid 3px #0a4726;
 }
 .nav-main .nav-link .nav-ul > li ul li:hover a, .nav-main .nav-link .nav-ul > li ul li.active a {
 	background: #c6a325;
 	color: #fff;
 }
 .btn.fill {
-	border: solid 1px #1b5603;
-	background: #1b5603;
+	border: solid 1px #0a4726;
+	background: #0a4726;
 }
 .btn:hover {
-	border: solid 1px #1b5603;
-	background: #1b5603;
+	border: solid 1px #0a4726;
+	background: #0a4726;
 }
 .btn.fill:hover {
-	color: #1b5603;
+	color: #0a4726;
 }
 #main_banner .btn:hover {
-	border-color: #1b5603;
-	background: #1b5603;
+	border-color: #0a4726;
+	background: #0a4726;
 }
 .text-justify{
 	text-align: justify !important;
 }
 .our-dishes .dish-box .price, .news-block .news-box .date, #footer .social-media ul li a:hover, .newsletter {
-	background: #1b5603;
+	background: #0a4726;
 }
 .our-story:after, .book-tabel:after {
 	background: rgba(158,127,14,0.7);
 }
 .menu-view .menu-tab .tab-menu ul li.active a {
-	background-color: #1b5603;
-	border: solid 1px #1b5603;
+	background-color: #0a4726;
+	border: solid 1px #0a4726;
 }
 .menu-view .menu-tab .tab-menu ul li a:hover {
-	background-color: #1b5603;
-	border: solid 1px #1b5603;
+	background-color: #0a4726;
+	border: solid 1px #0a4726;
 }
 .menu-view .menu-tab .tab-menu ul li.active a:after {
-	border-top: 13px solid #1b5603;
+	border-top: 13px solid #0a4726;
 }
 .book-tabel .form-view .submit-slide input {
-	background: #1b5603;
-	border: solid 1px #1b5603;
+	background: #0a4726;
+	border: solid 1px #0a4726;
 }
 .book-tabel .form-view .submit-slide:hover input {
-	color: #1b5603
+	color: #0a4726
 }
 .news-block .news-box .date:after {
 	border-top: 10px solid #6a511f;
 }
 .about-detail ul li {
-	background-color: #1b5603;
+	background-color: #0a4726;
 }
 .our-team .social-media ul li a:hover {
-	background-color: #1b5603;
+	background-color: #0a4726;
 }
 .booking.book-tabel .top-title label {
-	color: #1b5603;
+	color: #0a4726;
 }
 .booking .events-reservation .reservation-options .resBox:hover span {
-	background: #1b5603;
+	background: #0a4726;
 }
 .booking .events-reservation .reservation-options .resBox:hover a {
-	color: #1b5603;
+	color: #0a4726;
 }
 .contact-style1 .contact-detail .submit-slide input {
-	background: #1b5603;
+	background: #0a4726;
 }
 .contact-style2 .contact-detail .submit-slide input {
-	background: #1b5603;
+	background: #0a4726;
 }
 .contact-style2 .contact-detail .contact-info .contact-slide:hover span {
-	background: #1b5603;
+	background: #0a4726;
 }
 .news .newsBlock .news-info ul li a:hover {
-	color: #1b5603;
+	color: #0a4726;
 }
 .news .newsBlock .blockquote {
-	border-left-color: #1b5603;
+	border-left-color: #0a4726;
 }
 .news .newsBlock .readmore {
-	color: #1b5603;
+	color: #0a4726;
 }
 .news .sideBar .searchBox input[type="submit"] {
-	background-color: #1b5603;
+	background-color: #0a4726;
 }
 .news .sideBar .next-event ul li:hover {
-	background: #1b5603;
+	background: #0a4726;
 }
 .news .news-detail .newsBlock .news-info p .tag {
-	background: #1b5603;
+	background: #0a4726;
 }
 .news .news-detail .admin .title, .news .news-detail .admin .user-details .user-info .designation {
-	color: #1b5603;
+	color: #0a4726;
 }
 .commentBox .post .user-details .user-info .reply {
-	color: #1b5603;
+	color: #0a4726;
 }
 .commentBox .post p {
-	border-left: solid 6px #1b5603;
+	border-left: solid 6px #0a4726;
 }
 .commentBox .reply-form .submit-btn {
-	background: #1b5603;
+	background: #0a4726;
 }
 .commentBox .reply-form .submit-btn:hover {
-	color: #1b5603;
-	border-color: #1b5603;
+	color: #0a4726;
+	border-color: #0a4726;
 }
 .news .newsBox .news-img:after {
 	background: rgba(2,114,39,0.5);
 }
 .news .newsBox .news-info {
-	box-shadow: 0 -3px 0 0 #1b5603 inset;
+	box-shadow: 0 -3px 0 0 #0a4726 inset;
 }
 .news .more-btn .btn {
-	background: #1b5603;
+	background: #0a4726;
 }
 .news .more-btn .btn:hover, .nav-main.style2 .nav-link .login-btn {
 	border-color: #c6a325;
@@ -128,41 +128,44 @@
 	color: #FFF;
 }
 .menu-view .menuBox .menu-info .price {
-	color: #1b5603;
+	color: #0a4726;
 }
 .menu-view .menuBox .menu-img:after {
 	background: rgba(198,163,37,0.5);
 }
 .errorPage .errorContent p a {
-	color: #1b5603;
+	color: #0a4726;
 }
 .modal-header .modal-title, .news-subscribe .modal-body p a {
-	color: #1b5603;
+	color: #0a4726;
 }
 .modal-content .btn {
-	background: #1b5603;
+	background: #0a4726;
 }
 .modal-content .btn:hover {
-	color: #1b5603;
-	border-color: #1b5603;
+	color: #0a4726;
+	border-color: #0a4726;
 }
 .modal-content .modal-footer a {
-	color: #1b5603;
+	color: #0a4726;
 }
 #goTop {
-	background: #1b5603
+	background: #0a4726
 }
 .contact-style1 .contact-detail .submit-slide:hover input, .contact-style2 .contact-detail .submit-slide:hover input {
 	background: #95770b;
 }
 .food-menuView .menu-slide .price {
-	background: #1b5603;
+	background: #0a4726;
 }
 .booking-blcok .book-table .booking-details .submit-box input {
-	background: #1b5603;
+	background: #0a4726;
 }
 .menu-view .fullMenu-btn .btn {
-	border-bottom: solid 2px #ae8c12;
+	border-bottom: solid 2px #0a4726;
+}
+.color{
+	color: #0a4726 !important;
 }
 .dishes-ofDay.style3 .singal-itemSlider .owl-nav .fa {
 	background: rgba(198,163,37,0.5);
@@ -171,37 +174,37 @@
 	background: rgba(198,163,37,1);
 }
 #logoinPopup .close-btn, #logoinPopup .login-info .left-form .submit-slide input[type="submit"] {
-	background: #1b5603;
+	background: #0a4726;
 }
 #logoinPopup .login-info .left-form .sign-upLink a, #logoinPopup h2 {
-	color: #1b5603;
+	color: #0a4726;
 }
 .quck-nav a:hover {
-	color: #1b5603;
+	color: #0a4726;
 }
-.intro-content .right-text label {color: #1b5603;}
-.intro-content .info-text .inner-text {border-top:solid 1px #1b5603;}
-.intro-content .left-text p span {color:#1b5603; }
-.intro-footer .sosiyal-midiya ul li a {background:#1b5603;}
-.intro-footer .contact-link ul li a .fa {color:#1b5603;}
-.intro-footer .footer-copyRight p a {color:#1b5603;}
-.intro-page .infro-view .intro-logo .logo a {border:solid 5px #1b5603;}
+.intro-content .right-text label {color: #0a4726;}
+.intro-content .info-text .inner-text {border-top:solid 1px #0a4726;}
+.intro-content .left-text p span {color:#0a4726; }
+.intro-footer .sosiyal-midiya ul li a {background:#0a4726;}
+.intro-footer .contact-link ul li a .fa {color:#0a4726;}
+.intro-footer .footer-copyRight p a {color:#0a4726;}
+.intro-page .infro-view .intro-logo .logo a {border:solid 5px #0a4726;}
 .table-available .table-view .tabel-box:after {background: rgba(198,163,37,0.5);}
-.table-available .table-view .owl-dots .owl-dot {border:solid 2px #1b5603;}
-.table-available .table-view .owl-dots .owl-dot.active {background:#1b5603; }
-.customer-views .customer-text .owl-dots .owl-dot {border:solid 2px #1b5603; }
-.customer-views .customer-text .owl-dots .owl-dot.active {background:#1b5603;}
-.customer-views .customer-text p .fa {color:#1b5603;}
-.menu-view.style2 .tab-content .menu-box .name  {border-bottom:solid 1px #1b5603;}
-.menu-view.style2 .menu-tab .tab-menu ul li.active a { border-bottom:solid 1px #1b5603;}
-.menu-view.style2 .menu-tab .tab-menu ul li a:hover { border-bottom:solid 1px #1b5603;}
-.dishes-ofDay.style2 #dishes_slider .owl-nav .fa {background:#1b5603}
-.gallery-view .gallery-img .overlay .fa {background:#1b5603;}
+.table-available .table-view .owl-dots .owl-dot {border:solid 2px #0a4726;}
+.table-available .table-view .owl-dots .owl-dot.active {background:#0a4726; }
+.customer-views .customer-text .owl-dots .owl-dot {border:solid 2px #0a4726; }
+.customer-views .customer-text .owl-dots .owl-dot.active {background:#0a4726;}
+.customer-views .customer-text p .fa {color:#0a4726;}
+.menu-view.style2 .tab-content .menu-box .name  {border-bottom:solid 1px #0a4726;}
+.menu-view.style2 .menu-tab .tab-menu ul li.active a { border-bottom:solid 1px #0a4726;}
+.menu-view.style2 .menu-tab .tab-menu ul li a:hover { border-bottom:solid 1px #0a4726;}
+.dishes-ofDay.style2 #dishes_slider .owl-nav .fa {background:#0a4726}
+.gallery-view .gallery-img .overlay .fa {background:#0a4726;}
 .single-tableView .table-block.booked {background: rgba(198,163,37,0.5);}
-.special-offers .offer-slide .price {border:solid 1px #1b5603; }
-.hotel-menu .menu-view h3 {color:#1b5603}
-.hotel-menu .menu-view .menu-item .price {color:#1b5603}
-.hotel-menu .menu-ul ul li a:after {border-bottom:solid 1px #1b5603;}
+.special-offers .offer-slide .price {border:solid 1px #0a4726; }
+.hotel-menu .menu-view h3 {color:#0a4726}
+.hotel-menu .menu-view .menu-item .price {color:#0a4726}
+.hotel-menu .menu-ul ul li a:after {border-bottom:solid 1px #0a4726;}
 .our-team.style2 .team-box .team-img .social-media {background:rgba(198,163,37,0.9)}
 .special-offers .img-box:hover .overlay:after {background:rgba(198,163,37,0.5)}
 
@@ -1241,7 +1244,7 @@ cursor:pointer;
 border:5px solid #252525;
 background:#ffffff;
 }
-.menu-title-section:hover{background:;}
+.menu-title-section:hover{background:#ffffff;}
 
 .menu-title-section:before {
     content: "\f107";
@@ -1250,7 +1253,7 @@ background:#ffffff;
     margin-right: 8px;
 }
 .menu-title-section a{color:#252525;}
-.menu-title-section.active, .menu-title-section:hover{background:#1b5603;}
+.menu-title-section.active, .menu-title-section:hover{background:#0a4726;}
 .menu-title-section.active:before{ content: "\f106";
 color:#ffffff;}
 .menu-title-section.active a, .menu-title-section:hover a, .menu-title-section:hover:before{color:#ffffff;}
